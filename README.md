@@ -1,3 +1,11 @@
+# Voortijdig gearchiveerd :(
+Het was dus de bedoeling dat ik een eigen e-paper display in de huiskamer zou zetten, waarop zowel de gezinsagenda te zien was, als het weer en andere nuttige zaken. Ik was hier net aan begonnen, maar helaas kreeg m'n toen 1jarige zoontje de hardware te pakken en [sloopte de aansluiting van het scherm :(](https://i.boring.host/1KUS12jM.jpeg) 
+
+Helaas is dit project daarmee tot een voortijdig einde gekomen, archiveer ik deze repository en verzet ik mn zinnen met andere projectjes. MIsschien ooit een V2!
+
+----
+# De originele readme.md bij dit project
+
 Instructions on setting up a Raspberry Pi Zero WH with a Waveshare ePaper 7.5 Inch HAT. 
 The screen will display date, time, weather icon with high and low, Google Calendar entries, and PiHole blocked stats.
 
